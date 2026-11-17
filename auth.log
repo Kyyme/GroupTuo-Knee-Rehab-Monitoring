@@ -1,0 +1,7 @@
+2026-11-17 05:43:16 | LOGIN step1 FAIL: tite
+2026-11-17 05:43:33 | LOGIN step1 FAIL: kimi@gmail.com
+2026-11-17 05:43:58 | REGISTER success: kimi
+2026-11-17 05:44:03 | LOGIN step1 OK: kimi (OTP issued)
+2026-11-17 05:44:20 | LOGIN step2 OK: kimi (2FA passed)
+2026-11-17 05:48:41 | LOGIN step1 OK: kimi (OTP issued)
+2026-11-17 05:48:57 | LOGIN step2 OK: kimi (2FA passed)

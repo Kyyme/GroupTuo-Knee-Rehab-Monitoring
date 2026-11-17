@@ -12,7 +12,7 @@ medical advice.
 
 ---
 
-# How to use -ivan:
+# How to use -Kimi:
 
 1. cd to GroupTUO
 2. enter php -S localhost:8000, you will see (PHP Development Server (http://localhost:8000) started)
